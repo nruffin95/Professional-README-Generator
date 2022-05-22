@@ -1,6 +1,9 @@
 // TODO: Include packages needed for this application
 var inquirer = require('inquirer');
 const fs = require('fs');
+const generatorMarkdown = require('./utils/generateMarkdown');
+
+
 // TODO: Create an array of questions for user input
 const questions = [
     {
@@ -20,12 +23,12 @@ const questions = [
       },
       {
         type: 'input',
-        name: 'installation',
+        name: 'Installation',
         message: "What dependencies does the user need to install to run this app?",
       },
       {
         type: 'input',
-        name: 'usage',
+        name: 'Usage',
         message: "How is the app used? Give instructions",
       },
       {
