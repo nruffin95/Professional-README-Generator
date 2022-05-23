@@ -31,8 +31,6 @@ function generateMarkdown(data) {
   ${data.Description}
   ## Table of Contents
 
-  ### -------------------
-
   * [Installation](#installation)
   * [Usage](#usage)
   * [License](#license)
@@ -48,10 +46,10 @@ function generateMarkdown(data) {
   ### In order to use this app, install ${data.Test} in the terminal and follow these Instructions ${data.Test}.
   
   ## License
+
+  ${renderLicenseBadge(data.Licences)}
   
   ### This Project is licensed under the ${data.Licences}.
-  
-  ### -----License Picture----
   
   ## Contributing
   
