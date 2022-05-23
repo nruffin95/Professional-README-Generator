@@ -43,7 +43,7 @@ function generateMarkdown(data) {
   
   ## Usage
 
-  ### In order to use this app, install ${data.Test} in the terminal and follow these Instructions ${data.Test}.
+  ### In order to use this app, install ${data.Test} in the terminal and follow these Instructions: ${data.Usage}.
   
   ## License
 
