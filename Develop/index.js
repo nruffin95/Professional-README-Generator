@@ -40,7 +40,7 @@ const questions = [
         type: 'list',
         name: 'Licences',
         message: 'Which license would you like to add? (ie ...MIT)',
-        choices: ['Mit License', 'Apache License 2.0', 'Boost Software License'],
+        choices: ['Mit', 'Apache', 'Boost'],
       },
       {
         type: 'input',
