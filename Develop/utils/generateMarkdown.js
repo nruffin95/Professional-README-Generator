@@ -34,7 +34,7 @@ function generateMarkdown(data) {
   * [Installation](#installation)
   * [Usage](#usage)
   * [License](#license)
-  * [Contributing](#contributing)
+  * [Contributors](#Contributors)
   * [Questions](#questions)
 
   ## Installation
@@ -49,15 +49,15 @@ function generateMarkdown(data) {
 
   ${renderLicenseBadge(data.Licences)}
   
-  ### This Project is licensed under the ${data.Licences}.
+  ### This Project is licensed under the ${data.Licences} license.
   
-  ## Contributing
+  ## Contributors: 
   
-  ### Contributors: ${data.Contributing}
+  ${data.Contributing}
   
   ## Questions
   
-  ### If You have any questions about the repo, open an issue or contact ${data.Username} or ${data.Email}.
+  ### If You have any questions about the repo, open an issue or contact ${data.Questions} or ${data.Email}.
 `;
 }
 
