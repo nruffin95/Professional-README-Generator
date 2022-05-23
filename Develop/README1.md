@@ -3,7 +3,7 @@
 
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-  ## https://github.com/Nruffin95/Professional-README-Generator
+  ## https://github.com/nruffin95/Professional-README-Generator
 
   ## Description
 
