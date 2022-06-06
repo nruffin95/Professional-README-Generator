@@ -1,13 +1,13 @@
 
-  # Professional-README-Generator
+  # Note Taker
 
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-  ## https://github.com/nruffin95/Professional-README-Generator
+  ## https://github.com/nruffin95/Note Taker
 
   ## Description
 
-  This project is about the creation of a professional READMe generator that can be used by anyone with the right tools.
+  This Project includes the front and backend to the note taker
   ## Table of Contents
 
   * [Installation](#installation)
@@ -18,11 +18,11 @@
 
   ## Installation
 
-  ### The Following necessary dependencies must be installed to run this application: Inquirer.
+  ### The Following necessary dependencies must be installed to run this application: Express, Path, FileSystem.
   
   ## Usage
 
-  ### In order to use this app, install Node.js in the terminal and follow these Instructions: Open intergrated terminal from the develop file and run node index.js.
+  ### In order to use this app, install Node in the terminal and follow these Instructions: Open the terminal in the develope folder and run "node server.js".
   
   ## License
 
@@ -32,8 +32,8 @@
   
   ## Contributors: 
   
-  Nick Ruffin
+  Nicholaus Ruffin
   
   ## Questions
   
-  ### If You have any questions about the repo, open an issue or contact 555-555-5555 or nruffin95@gmail.com.
+  ### If You have any questions about the repo, open an issue or contact NA or nruffin95@gmail.com.
